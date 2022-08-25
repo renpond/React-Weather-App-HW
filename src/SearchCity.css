@@ -1,0 +1,15 @@
+.searchBar,
+.searchButton {
+  border-radius: 5px;
+  margin: 2px;
+  padding: 2px;
+}
+.searchButton {
+  color: white;
+  background-color: rgb(62, 105, 143);
+}
+.SearchEngine h1 {
+  font: "Ariel, sans-serif";
+  font-size: 40px;
+  color: rgb(62, 105, 143);
+}

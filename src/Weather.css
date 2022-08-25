@@ -1,0 +1,14 @@
+.Weather h1 {
+  text-align: center;
+  font-size: 35px;
+  color: rgb(62, 105, 143);
+}
+.Weather li {
+  font-size: 25px;
+  font-weight: normal;
+  margin: 20px;
+  color: rgb(62, 105, 143);
+}
+#dots {
+  text-align: center;
+}
