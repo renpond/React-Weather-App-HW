@@ -4,11 +4,7 @@ export default function Footer() {
   return (
     <small>
       {" "}
-      <a
-        href="https://github.com/renpond/my-new-app.git"
-        rel="noreferrer"
-        target="_blank"
-      >
+      <a href="" rel="noreferrer" target="_blank">
         Open Source Code
       </a>{" "}
       by Renee' Pond
