@@ -5,7 +5,7 @@ export default function Footer() {
     <small>
       {" "}
       <a
-        href="https://github.com/renpond/Weather-React-HW.git"
+        href="https://github.com/renpond/my-new-app.git"
         rel="noreferrer"
         target="_blank"
       >
