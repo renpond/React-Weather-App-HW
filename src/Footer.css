@@ -1,0 +1,15 @@
+/* unvisited link */
+a {
+  color: rgb(62, 105, 143);
+  text-decoration: none;
+}
+/* visited link */
+a:visited {
+  color: darkcyan;
+  text-decoration: none;
+}
+/* mouse over link*/
+a:hover {
+  color: aquamarine;
+  text-decoration: underline;
+}
