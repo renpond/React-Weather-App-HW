@@ -4,7 +4,11 @@ export default function Footer() {
   return (
     <small>
       {" "}
-      <a href="" rel="noreferrer" target="_blank">
+      <a
+        href="https://github.com/renpond/React-Weather-App-HW.git"
+        rel="noreferrer"
+        target="_blank"
+      >
         Open Source Code
       </a>{" "}
       by Renee' Pond
