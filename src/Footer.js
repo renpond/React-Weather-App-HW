@@ -13,7 +13,7 @@ export default function Footer() {
       >
         Open Source Code
       </a>{" "}
-      by Renee' Pond
+      by Renee' Pond 🦄
     </small>
   );
 }
