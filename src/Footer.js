@@ -8,7 +8,7 @@ export default function Footer() {
       {" "}
       <a
         href="https://github.com/renpond/React-Weather-App-HW.git"
-        rel="noopener"
+        rel="noopener noreferrer"
         target="_blank"
       >
         Open Source Code
