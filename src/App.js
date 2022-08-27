@@ -1,3 +1,4 @@
+import React from "react";
 import SearchCity from "./SearchCity";
 import Footer from "./Footer";
 
